@@ -10,6 +10,7 @@
   "author": "Rodrigo Reyes <rreyes@canaryhealth.com>",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "handlebars": "^4.4.3",
     "normalize.css": "^8.0.1",
     "typography": "^0.16.19",
